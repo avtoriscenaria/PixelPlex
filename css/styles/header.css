@@ -1,0 +1,17 @@
+  #head{
+  	background-color: grey;
+	display: flex;
+	justify-content: flex-start;
+}
+
+#hdchild{
+	margin-left: 30%;
+	display: flex;
+	justify-content: flex-start;
+}
+
+.hdref{
+	margin: 10px;
+	text-align: center;
+	color: white;
+}

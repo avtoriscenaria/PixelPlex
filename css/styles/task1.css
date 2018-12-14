@@ -1,0 +1,25 @@
+.task1{
+	display: flex;
+	justify-content: space-between;
+}
+
+.txt{
+	width: 50%;
+	padding: 20px;
+
+}
+
+.list{
+	margin-right: 15px;
+	width: 50%;
+}
+
+#it{
+	display: flex;
+	justify-content: space-between;
+}
+
+#btn{
+	margin-left: 95px;
+}
+

@@ -1,0 +1,19 @@
+.task2{
+	padding: 15px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.counter{
+	margin-right: 15px;
+	width: 50%;
+}
+
+.slider{
+	width: 45%;
+}
+
+.range{
+	display: flex;
+	justify-content: space-between;
+}
